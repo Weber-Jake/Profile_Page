@@ -1,0 +1,166 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.container {
+    width: 1380px;
+    margin: 0 auto;
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    height: 60px;
+    align-items: center;
+}
+
+.nav-title {
+    display: flex;
+    color: white;
+}
+
+.nav-links ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.nav-links {
+    width: 30%;
+}
+
+.navlink {
+    color: white;
+    text-decoration: none;
+}
+
+.btn {
+    border: solid 2px black;
+    background-color: aqua;
+    padding: 5px;
+}
+
+.main {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    background-color: aqua;
+    height: 100px;
+}
+
+.left {
+    width: 30%;
+    margin-right: 120px;
+}
+
+.right {
+    width: 25%;
+}
+
+.col-r1 {
+    border: solid 2px gray;
+}
+
+.col-1 {
+    border: solid 2px gray;
+}
+
+.marker {
+    height: 20px;
+}
+
+.body h1 {
+    margin: 10px;
+    margin-top: 50px;
+}
+
+.body h3 {
+    margin: 10px;
+}
+
+.profile-image {
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.body p {
+    margin: 10px;
+}
+
+.gear {
+    height: 20px;
+    color: black;
+    text-decoration: underline;
+}
+
+.col-2 {
+    border: solid 2px gray;
+    margin-top: 20px;
+}
+
+.headerL2 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.dates {
+    color: gray;
+    margin: 10px;
+}
+
+#bodyL22 {
+    margin: 10px;
+}
+
+.headerR1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.number {
+    margin: 10px;
+    border: solid gray 5px;
+    border-radius: 50%;
+    background-color: gray;
+}
+
+.body-row-r1 {
+    display: flex;
+}
+
+.adrian-s {
+    width: 50px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.accept-circle1,
+.close-circle1 {
+    width: 50px;
+    margin: 10px;
+}
+
+.alayne {
+    border-radius: 50%;
+    width: 50px;
+}
+
+.headerR2 {
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+
+.col-r2 {
+    border: solid 2px gray;
+    margin-top: 30px;
+}
